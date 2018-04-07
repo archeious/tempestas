@@ -1,0 +1,9 @@
+{
+    "mysql":{
+        "host":"localhost",
+        "user":"username",
+        "password":"password",
+        "database":"database"
+    },
+    "frequency" : 60
+}
